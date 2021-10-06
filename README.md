@@ -33,8 +33,9 @@ This bot needs a Linux system, Node JS version 15 or newer with the packages spe
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SaintAkira/aisyjan/blob/main/app.json)
 
--   You can generate a string session [here](https://rojserbest.github.io/bssg).
 
+Get pyrogram (p)  `SESSION` from here:
+[![Run on Repl.it](https://repl.it/badge/github/vckyou/PyrogramString)](https://repl.it/@vckyou/PyrogramString?lite=1&outputonly=1)
 
 
 ## Commands
