@@ -1,4 +1,4 @@
-# saint music bot — Stream audio in Telegram calls using GramJS and tgcallsjs
+# saint music bot — for playing music and having fun💖
 
 ## Requirements
 
