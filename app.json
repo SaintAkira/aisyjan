@@ -1,6 +1,6 @@
 {
-    "name": "Calls Music 2",
-    "description": "Stream audio in Telegram group calls using GramJS and tgcallsjs",
+    "name": "Saint Music Bot",
+    "description": "Deploy it and enjoy you musix bitch🤬",
     "keywords": ["telegram", "music"],
     "repository": "https://github.com/callsmusic/callsmusic2",
     "env": {
