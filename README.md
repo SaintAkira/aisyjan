@@ -33,7 +33,9 @@ This bot needs a Linux system, Node JS version 15 or newer with the packages spe
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/callsmusic2)
 
--   You can generate a string session [here](https://rojserbest.github.io/bssg).
+-   ### Generate String Using Replit⤵️
+
+<a href="https://replit.com/@SaintAkira/AgI-sRIng-sssIn-1?v=1"><img src="https://img.shields.io/badge/run-string__session.py-magenta?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 ## Commands
 
