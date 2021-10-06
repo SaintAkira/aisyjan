@@ -31,7 +31,7 @@ This bot needs a Linux system, Node JS version 15 or newer with the packages spe
 
 ### Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/callsmusic2)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SaintAkira/aisyjan/blob/main/app.json)
 
 -   ### Generate String Using Replit⤵️
 
